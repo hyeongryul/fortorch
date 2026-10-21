@@ -11,7 +11,8 @@
 torch-2.14.1-cp311-cp311-win_amd64.whl
 192.3 MB
 
-** for transformer **
+* **for transformer**
+
 -rw-r--r-- 1 root root 5.2K Oct 21 06:37 annotated_doc-0.0.5-py3-none-any.whl
 
 -rw-r--r-- 1 root root 129K Oct 21 06:37 anyio-4.15.1-py3-none-any.whl
@@ -66,7 +67,8 @@ torch-2.14.1-cp311-cp311-win_amd64.whl
 
 -rw-r--r-- 1 root root  45K Oct 21 06:37 typing_extensions-4.16.0-py3-none-any.whl
 
-** for tabPFN **
+* **for tabPFN**
+  
 -rw-r--r-- 1 root root  14K Oct 21 06:43 annotated_types-0.8.0-py3-none-any.whl
 
 -rw-r--r-- 1 root root 129K Oct 21 06:43 anyio-4.15.1-py3-none-any.whl
@@ -167,7 +169,8 @@ torch-2.14.1-cp311-cp311-win_amd64.whl
 
 -rw-r--r-- 1 root root 133K Oct 21 06:43 urllib3-2.8.0-py3-none-any.whl
 
-** Optuna **
+* **Optuna**
+  
 -rw-r--r-- 1 root root 263K Oct 21 06:44 alembic-1.20.0-py3-none-any.whl
 
 -rw-r--r-- 1 root root  12K Oct 21 06:44 colorlog-6.12.0-py3-none-any.whl

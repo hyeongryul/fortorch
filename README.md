@@ -7,3 +7,5 @@
 * **sympy**: [pypi.org/project/sympy](https://pypi.org/project/sympy/)
 * **torch**: [pypi.org/project/torch](https://pypi.org/project/torch/)
 * **typing-extensions**: [pypi.org/project/typing-extensions](https://pypi.org/project/typing-extensions/)
+
+torch-2.14.1-cp311-cp311-win_amd64.whl

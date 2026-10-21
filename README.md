@@ -9,3 +9,4 @@
 * **typing-extensions**: [pypi.org/project/typing-extensions](https://pypi.org/project/typing-extensions/)
 
 torch-2.14.1-cp311-cp311-win_amd64.whl
+192.3 MB
